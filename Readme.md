@@ -42,4 +42,4 @@ npm install -D nodemon
 npm start
 ```
 
-You can read full article on [!Medium](https://medium.com/@jenilgajjar/crud-operation-using-node-js-and-express-js-a0d63a2216aa)
+You can read full article on [Medium](https://medium.com/@jenilgajjar/crud-operation-using-node-js-and-express-js-a0d63a2216aa)
